@@ -1,0 +1,2 @@
+# fast-ai
+Fastai practice
